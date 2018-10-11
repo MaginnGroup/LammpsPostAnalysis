@@ -1,5 +1,7 @@
 # LammpsPostAnalysis
 
+This code is no longer in development. For an updated version of these codes, go to https://github.com/MaginnGroup/PyLAT
+
 For dielectric constant calculations, use the following command:
 python calcDielectricConstant.py {Lammps Dump File} {Lammps Data File} {Temperature}
 
